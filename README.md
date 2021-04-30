@@ -6,4 +6,6 @@ to run the algorithm, clone this repository and run:
   acceptable flags:
     `-l`, `--log`, for runtime logs 
 
-also, if you're interested, check out `reduction.py`. This file consists on a polynomial time reduction of a instance of the vertex-cover problem. A reduction for decision problems consists on receiving a valid instance of the source problem, execute some work algorithmicly to adapt the input to become a valid instance of another problem which you previously solved, execute the algorithm using the adapted input and then solve the original problem with the given output. For more info, read the pdf, which unfortunately is available only in portuguese.
+also, if you're interested, check out `reduction.py`. This file consists on a polynomial time reduction of a instance of the vertex-cover problem. A reduction for decision problems consists on receiving a valid instance of the source problem, execute some work algorithmicly to adapt the input into becoming a valid instance of another problem, which i had previously solved, execute the algorithm using the adapted input and then solve the original problem with the given output.
+
+For more info, read the pdf, which unfortunately is available only in portuguese.
